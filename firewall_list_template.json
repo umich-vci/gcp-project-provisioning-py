@@ -1,0 +1,1 @@
+[{"direction": "ingress/egress", "protocol": "tcp/udp/icmp/etc", "name": "unique-name", "priority": "", "source": ["campus_networks"], "tag": "gce_security_tag (optional)", "port": "(not required, ie ICMP"}]
